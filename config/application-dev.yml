@@ -1,0 +1,17 @@
+## [dev] environment
+
+
+## server
+server:
+  port: 8008
+
+## address config
+address:
+  country: China
+  province: Beijing
+  city: Beijing
+  area: Pudong
+  detail: '外滩 18 号'
+
+## file name
+fileName="application-dev.yml"
