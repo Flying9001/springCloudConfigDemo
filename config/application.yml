@@ -6,7 +6,8 @@ spring:
   profiles:
     active: dev
   application:
-    name: spring-cloud-config-demo
+    name: spring-cloud-config-demo-dev
+    
 
 
 
