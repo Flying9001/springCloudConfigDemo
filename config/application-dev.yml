@@ -14,4 +14,4 @@ address:
   detail: '外滩 18 号'
 
 ## file name
-fileName="application-dev.yml"
+fileName: "application-dev.yml"
