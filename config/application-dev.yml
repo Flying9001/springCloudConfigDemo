@@ -11,7 +11,7 @@ address:
   province: Beijing
   city: Beijing
   area: Pudong
-  detail: '\u5916\u6ee9\u0020\u0031\u0038\u0020\u53f7'
+  detail: \u5916\u6ee9\u0020\u0031\u0038\u0020\u53f7
 
 ## file name
 fileName: "application-dev.yml"
